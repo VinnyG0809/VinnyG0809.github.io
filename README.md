@@ -13,7 +13,7 @@ This repository is for assignments related to that class.
 	* I have been playing piano for 10 years as well
 	* My favorite song is The Harmonious Blacksmith, composed by Handel
 
-## Websites I recommend
+## Websites I Recommend
 
 * www.outlook.office365.com
 	* It's the best way to check my high school and Wake Tech emails. 
